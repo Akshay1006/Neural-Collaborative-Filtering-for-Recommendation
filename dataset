@@ -1,0 +1,23 @@
+Input data file is of the below format. 
+
+Unique_id	Ad_id	event_date	click
+987 1	12/17/2019	1
+102	10	12/2/2019	0
+110	11	12/3/2019	0
+99908	9	12/8/2019	0
+43209	0	12/10/2019	1
+3209	23	12/8/2019	0
+1209	11	12/4/2019	0
+38474	23	12/14/2019	1
+233	11	12/9/2019	0
+12	1	12/12/2019	0
+
+Here:
+
+Unique Id: Unique Identifier or the customer id
+Ad_id : Unique identifier for the Ad
+Event_date
+Click: Whether the customer clicked on the Ad or not
+
+
+
