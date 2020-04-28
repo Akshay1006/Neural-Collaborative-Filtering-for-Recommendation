@@ -6,7 +6,9 @@ Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua (20
 
 Link for the paper : https://arxiv.org/pdf/1708.05031.pdf
 
-This implementation consists of both MF and MLP and a final concatenation of both the layers for imporved learning.
+This implementation consists of both MF ( Matrix Factorization ) and MLP ( Multi- Layer Perceptron ) and a final concatenation of both the layers for imporved learning.
+
+MF and MLP layer extraction steps are also given for further fine tuning or using as an input in other model.
 
 Dummy dataset used is provided as a sample in the folder 'dataset'.
 
